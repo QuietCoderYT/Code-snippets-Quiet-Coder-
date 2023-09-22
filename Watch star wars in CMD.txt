@@ -1,0 +1,3 @@
+COMMAND: telnet towel.blinkenlights.nl
+
+DISCLAIMER: telnet is not not safe and Microsoft disabled it in newer versions of Windows, so DON'T USE IT
